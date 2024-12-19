@@ -1,0 +1,1 @@
+<a href="<?=$arResult['LOGOUT_LINK']?>">Выйти</a>
